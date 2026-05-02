@@ -15,4 +15,5 @@
 <p>
   E este projeto também é um projeto responsivo, aqui abaixo podemos ver como ele fica no celular.
 </p>
+<img src="https://github.com/Marcos-Faraco/Easy-Shopping/blob/main/assets/imagemobile.png?raw=true"/>
 
